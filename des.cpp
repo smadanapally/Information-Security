@@ -6,6 +6,7 @@
 # include <bitset>
 using namespace std;
 
+
     int total[64],
         left_plain_text[17][32],
         right_plain_text[17][32],
